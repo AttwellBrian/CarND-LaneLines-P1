@@ -4,7 +4,7 @@
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. 
+My pipeline consisted of the following steps 
 1. I converted the images to grayscale
 2. I performed a gaussian blur
 3. I performed edge detection on the image
